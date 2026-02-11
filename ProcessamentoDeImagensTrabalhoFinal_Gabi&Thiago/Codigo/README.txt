@@ -1,6 +1,6 @@
 # Processamento de Imagens para Classificação de Frutas: Mamões vs Pimentas
 
-**Nomes:** Gabi Neves & Thiago Marcel Messias de Andrade  
+**Nomes:** GABRIELA SAFIRA NEVES DE OLIVEIRA e  THIAGO MARCEL MESSIAS DE ANDRADE
 
 ---
 
@@ -119,3 +119,4 @@ O pipeline foi testado em 20 fotografias contendo mamões e pimentas.
 A contagem de mamões geralmente fica entre 4 e 7, enquanto a de pimentas é significativamente maior.
 
 Observou-se que, na maioria dos casos, o algoritmo identifica corretamente 4 ou mais dos 6 mamões. Eventualmente, uma pimenta pode ser classificada como mamão devido à similaridade de formato.
+
