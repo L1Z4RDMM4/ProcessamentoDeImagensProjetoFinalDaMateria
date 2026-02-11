@@ -112,6 +112,10 @@ A função principal exibe a imagem final e retorna um dicionário com:
 
 ---
 
+## Obervações
+
+Após o plot das imagens de teste, optamos por deixar todo o código desenvolvido e prototipado algo longo do desenvolvimento desse algoritmo com o intuito do professor poder entender nosso processo de raciocinio até chegar no resultado, para separar a parte funcional do código da de prototipação foi marcado por meio de comentario uma divisão do que é prototipação do que é o código de fato.
+
 ## Resultados
 
 O pipeline foi testado em 20 fotografias contendo mamões e pimentas.
@@ -119,4 +123,5 @@ O pipeline foi testado em 20 fotografias contendo mamões e pimentas.
 A contagem de mamões geralmente fica entre 4 e 7, enquanto a de pimentas é significativamente maior.
 
 Observou-se que, na maioria dos casos, o algoritmo identifica corretamente 4 ou mais dos 6 mamões. Eventualmente, uma pimenta pode ser classificada como mamão devido à similaridade de formato.
+
 
