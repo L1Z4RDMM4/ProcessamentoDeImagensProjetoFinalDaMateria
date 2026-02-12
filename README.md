@@ -12,7 +12,7 @@ O repositório é organizado da seguinte forma:
 ProcessamentoDeImagensTrabalhoFinal_Gabi&Thiago/
 │
 ├── código/
-│   ├── arquivo_fonte.ipynb
+│   ├── ProcessamentoDeImagensGabi_Thiago.ipynb
 │   └── README.md
 │
 └── imagens/
